@@ -43,7 +43,7 @@ I'm actively learning and working on various projects to enhance my skills.
 
 ## 📫 How to Reach Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-chiluveru-209148121)](https://www.linkedin.com/in/akhil-chiluveru-209148121/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilchiluveru)](https://www.linkedin.com/in/akhilchiluveru/)
 
 
 
