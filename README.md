@@ -22,12 +22,13 @@
 
 ## Skills
 
--💻 Programming: C++, Python, HTML, CSS, JavaScript
--🌐 Web Development: React
--📝 Project Management: Jira
--📚 Computer Science: Data Structures and Algorithms, Operating Systems, Computer Networks, DBMS
--🔍 Focus: Proficient in Programming with C++
--⚙️ Version control:Git,Github
+- 💻 Programming: C++, Python, HTML, CSS, JavaScript
+- 🌐 Web Development: React
+- 📊 Data Visualization: Tableau
+- 📝 Project Management: Jira
+- 📚 Computer Science: Data Structures and Algorithms, Operating Systems
+- 🌱 Version Control: Git, GitHub
+- 🗃️ Database: SQL
 
 ## Projects
 
