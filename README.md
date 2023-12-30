@@ -22,12 +22,13 @@
 
 ## Skills
 
-💻 Programming: C++, Python, HTML, CSS, JavaScript
-🌐 Web Development: React
-📝 Project Management: Jira
-📚 Computer Science: Data Structures and Algorithms, Operating Systems, Computer Networks, DBMS
-🔍 Focus: Proficient in Programming with C++
-⚙️ Version control:Git,Github
+-💻 Programming: C++, Python, HTML, CSS, JavaScript
+-🌐 Web Development: React
+-📝 Project Management: Jira
+-📚 Computer Science: Data Structures and Algorithms, Operating Systems, Computer Networks, DBMS
+-🔍 Focus: Proficient in Programming with C++
+-⚙️ Version control:Git,Github
+
 ## Projects
 
 ### Project 1: [Taskminder : A Web Application for Task management](https://github.com/akhil0203/taskminder)
