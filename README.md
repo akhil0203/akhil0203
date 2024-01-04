@@ -33,6 +33,7 @@
 ## Projects
 
 ### Project 1: [Taskminder : A Web Application for Task management](https://github.com/akhil0203/taskminder)
+### Project 2: [Personal Website : A personal website created on github codespaces](https://akhilc.vercel.app/)
 
 
 
