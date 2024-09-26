@@ -1,8 +1,8 @@
 # Hi there! 👋
 # I'm Akhil Chiluveru
-## Software Developer 👨‍💻
+## Engineer 👨‍💻
 
-"Welcome to my GitHub! I'm deeply passionate about exploring the latest advancements in web development and leveraging new technologies to solve real-world challenges. Dive in to explore my projects, contributions, and get to know a bit more about me."
+"Welcome to my GitHub! I'm deeply passionate about exploring the latest advancements in Machine learning and leveraging new technologies to solve real-world challenges. Dive in to explore my projects, contributions, and get to know a bit more about me."
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=akhil0203&style=flat-square&color=blue)
